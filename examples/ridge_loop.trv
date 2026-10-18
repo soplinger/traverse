@@ -1,0 +1,14 @@
+# Ridge loop, an illustrative upland walk (coordinates are made up)
+title Ridge Loop
+speed 4.0            # walking speed on the flat, km/h
+climb 600            # Naismith: 600 m of ascent per hour
+declination 1.5 W    # magnetic declination, east positive
+
+start 08:30
+
+point Trailhead 53.3500 -1.8000 elev=280
+point Stile     53.3580 -1.7900 elev=340
+point Ridge     53.3640 -1.7750 elev=410 stop=10
+point Cairn     53.3700 -1.7800 elev=455 stop=15
+point Quarry    53.3610 -1.7950 elev=300
+point Trailhead 53.3500 -1.8000 elev=280 stop=20
